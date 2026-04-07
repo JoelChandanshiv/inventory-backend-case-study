@@ -1,6 +1,7 @@
 # StockFlow Backend Case Study
 
 This repository contains my solution for the StockFlow Backend Case Study.
+Document Link: https://docs.google.com/document/d/1UgzjUm148FzmPGcTvDkxa2miIgS4keKrmugx29tuI88/edit?usp=sharing
 
 ## 📌 Overview
 
@@ -26,7 +27,6 @@ The case study is divided into three parts:
 - `part1_debugging/` → Improved product creation API with fixes
 - `part2_database/` → Database schema design (SQL DDL)
 - `part3_api/` → Low stock alerts API implementation
-- `docs/` → Final submission document (PDF)
 
 ---
 
